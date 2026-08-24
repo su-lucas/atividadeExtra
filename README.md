@@ -12,7 +12,6 @@ Usei só para estudo e criação deste
 * **Back-end:** Python com Django🐍
 # Clone este repositório:​☢️​
 ➡cliando abaixo
-'''
+```
  git clone https://github.com/su-lucas/atividadeExtra
-'''
-
+```
