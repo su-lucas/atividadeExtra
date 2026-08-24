@@ -1,4 +1,4 @@
-# ATIVIDADE EXTRA
+# ATIVIDADE EXTRA - estudando git/github
 
 > criando um repositorio
 
@@ -7,7 +7,7 @@
 ## 📖 Apenas criando para ter um ponto
 
 ## 💻 Tecnologias Utilizadas
-As seguintes ferramentas foram usadas na construção do projeto:
+Usei só para estudo e criação deste repo:
 
 * **Back-end:** Python
 * **Controle de versão:** Git/GitHub
