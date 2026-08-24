@@ -6,10 +6,10 @@
 
 ## ✅​ Ganhando um ponto extra!
 ## 💻 Tecnologias Utilizadas
-Usei só para estudo e criação deste repo:
+Usei só para estudo e criação deste
 
 * **Controle de versão:** Git/GitHub
-* **Back-end:** Python🐍
+* **Back-end:** Python com Django🐍
 # Clone este repositório:​☢️​
 ➡️​ git clone https://github.com/su-lucas/atividadeExtra
 
