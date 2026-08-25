@@ -10,8 +10,8 @@ Usei só para estudo e criação deste
 
 * **Controle de versão:** Git/GitHub
 * **Back-end:** Python com Django🐍
-# Clone este repositório:​☢️​
-➡cliando abaixo
+# Clone este repositório:​
+cliando abaixo
 ```
  git clone https://github.com/su-lucas/atividadeExtra
 ```
